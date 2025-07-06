@@ -113,16 +113,16 @@ Priority queue applications for top-k problems and data stream processing.
 | Problem | File | Key Approaches |
 |---------|------|----------------|
 | 120 | `triangle.py` | Bottom-up DP, Space Optimization, In-place, Path Tracking |
-| 064 | `minimum_path_sum.py` | *To be implemented* |
-| 063 | `unique_paths_ii.py` | *To be implemented* |
-| 005 | `longest_palindromic_substring.py` | *To be implemented* |
-| 097 | `interleaving_string.py` | *To be implemented* |
-| 072 | `edit_distance.py` | *To be implemented* |
-| 123 | `best_time_to_buy_and_sell_stock_iii.py` | *To be implemented* |
-| 188 | `best_time_to_buy_and_sell_stock_iv.py` | *To be implemented* |
-| 221 | `maximal_square.py` | *To be implemented* |
-| 085 | `maximal_rectangle.py` | *To be implemented* |
-| 124 | `binary_tree_maximum_path_sum.py` | *To be implemented* |
+| 064 | `minimum_path_sum.py` | Multiple DP approaches with space optimization |
+| 063 | `unique_paths_ii.py` | DP with obstacles, space-optimized solutions |
+| 005 | `longest_palindromic_substring.py` | Expand centers, Manacher's algorithm, DP |
+| 097 | `interleaving_string.py` | 2D DP, space optimization, BFS approach |
+| 072 | `edit_distance.py` | Classic edit distance with multiple DP variants |
+| 123 | `best_time_to_buy_and_sell_stock_iii.py` | State machine, forward-backward DP |
+| 188 | `best_time_to_buy_and_sell_stock_iv.py` | General k-transactions with optimizations |
+| 221 | `maximal_square.py` | DP, histogram, stack-based approaches |
+| 085 | `maximal_rectangle.py` | Largest rectangle in histogram variations |
+| 124 | `binary_tree_maximum_path_sum.py` | DFS, bottom-up DP, iterative solutions |
 
 ## 🚀 **Key Features**
 
